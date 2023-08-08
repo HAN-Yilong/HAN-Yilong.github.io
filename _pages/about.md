@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Basic Information: 
+
+
+Basic Information:  
 Our team is from the College of Geomatics and Spatial Information Science at Shandong University of Science and Technology, located in Qingdao City, Shandong Province, China.
 
-Research Keywords: 
+
+Research Keywords:  
 remote sensing, image processing, machine learning, 3D computer vision, 3D modeling,Image dense matching
 
 
